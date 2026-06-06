@@ -37,7 +37,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 glass px-4 py-2 rounded-full text-sm text-primary font-medium mb-8"
         >
           <Sparkles size={14} className="text-primary" />
-          ✅ Verified PW Campus Ambassador Platform
+          ✅ Verified PW Campus Ambassador — Up to 50% Off on PW Batches
           <Sparkles size={14} className="text-primary" />
         </motion.div>
 
@@ -85,7 +85,7 @@ export default function Hero() {
             href="#categories"
             className="inline-flex items-center gap-2 glass text-[#F8FAFC] font-semibold text-base px-8 py-4 rounded-full hover:border-primary/30 transition-all duration-200"
           >
-            Browse Offers
+            💰 Browse Discounts
           </Link>
         </motion.div>
 

@@ -25,7 +25,7 @@ export default function CTA({ heading, subheading, label }) {
           >
             <div className="inline-flex items-center gap-2 glass px-4 py-2 rounded-full text-sm text-primary font-medium mb-6">
               <Sparkles size={14} />
-              Limited Time Offers Available
+              🔥 Limited Time — Up to 50% Off on PW Batches
             </div>
 
             <h2 className="text-3xl sm:text-5xl font-display font-bold mb-5 leading-tight">

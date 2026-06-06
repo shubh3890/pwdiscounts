@@ -11,10 +11,8 @@ import { generateMetadata as genMeta, faqSchema, organizationSchema } from '../l
 import { homeFaqs } from '../data/faq'
 
 export const metadata = genMeta({
-  title: 'Student Discounts on Educational Courses — JEE, NEET, CA, MBA & More',
-  description:
-    'Discover verified educational offers, student discounts, and course promotions for JEE, NEET, CA Foundation, MBA, GATE, SSC, Banking and Skills courses in India.',
-  path: '/',
+ title: 'PW Batch Discounts Up to 50% Off — Verified Campus Ambassador',
+description: 'Get up to 50% off on Physics Wallah batches for JEE, NEET, UPSC, CA, SSC, Banking, Defence and more. Connect with our verified PW Campus Ambassador on WhatsApp.', path: '/',
   keywords: [
     'educational offers India',
     'student discounts courses',

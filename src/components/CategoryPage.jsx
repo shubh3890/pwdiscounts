@@ -417,7 +417,7 @@ export default function CategoryPage({ slug }) {
               style={{ color: cat.accent, borderColor: `${cat.accent}33` }}
             >
               <span style={{ color: cat.accent }}>●</span>
-              {cat.shortTitle} Student Offers
+              🔥 Up to 50% Off — {cat.shortTitle} Batches
             </motion.div>
 
             <motion.h1

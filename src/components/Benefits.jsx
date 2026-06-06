@@ -39,12 +39,12 @@ export default function Benefits() {
           viewport={{ once: true }}
           className="text-center mb-14"
         >
-          <p className="text-primary text-sm font-semibold uppercase tracking-widest mb-3">Why PW Discount</p>
+          <p className="text-primary text-sm font-semibold uppercase tracking-widest mb-3">Why PW Discounts</p>
           <h2 className="text-3xl sm:text-4xl font-display font-bold">
             Built for <span className="text-gradient">Student Success</span>
           </h2>
           <p className="text-[#94A3B8] mt-4 max-w-xl mx-auto">
-            Everything on PW Discounts is designed to help students find the best educational opportunities without the noise.
+           Save up to 50% on PW batches through our verified campus ambassador. No coupon codes needed — just fill the form and we handle the rest.
           </p>
         </motion.div>
 

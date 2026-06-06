@@ -4,10 +4,10 @@ import { motion, useInView } from 'framer-motion'
 import { Users, ShieldCheck, RefreshCw, Zap } from 'lucide-react'
 
 const stats = [
-  { icon: Users, value: 1000, suffix: '+', label: 'Students Reached', color: '#F59E0B' },
-  { icon: ShieldCheck, value: 100, suffix: '%', label: 'Verified Information', color: '#10B981' },
-  { icon: RefreshCw, value: 7, suffix: 'x/wk', label: 'Regular Updates', color: '#6366F1' },
-  { icon: Zap, value: 24, suffix: 'hr', label: 'Fast Response', color: '#F43F5E' },
+  { icon: Users, value: 1000, suffix: '+', label: 'Students Saved Money', color: '#F59E0B' },
+  { icon: ShieldCheck, value: 50, suffix: '%', label: 'Max Discount Available', color: '#10B981' },
+  { icon: RefreshCw, value: 7, suffix: 'x/wk', label: 'Offers Updated', color: '#6366F1' },
+  { icon: Zap, value: 2, suffix: 'hr', label: 'Ambassador Reply Time', color: '#F43F5E' },
 ]
 
 function Counter({ target, suffix }) {
