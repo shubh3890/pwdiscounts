@@ -40,9 +40,8 @@ export const homeFaqs = [
       'Absolutely. You can submit separate inquiries for each exam category you are interested in, such as JEE preparation and CA Foundation simultaneously.',
   },
   {
-    question: 'Is EduOffers officially affiliated with any coaching institute?',
-    answer:
-      'No. EduOffers is an independent educational information platform. We are not officially affiliated with any coaching institute or educational company. We aggregate and share publicly available offer information.',
+    question: 'Is PW Discounts officially affiliated with Physics Wallah?',
+answer: 'PW Discounts is operated by a verified Physics Wallah Campus Ambassador. We are part of the official PW Ambassador Program and are not the official PW website (pw.live). We help students access genuine PW batch discounts directly.',
   },
 ]
 

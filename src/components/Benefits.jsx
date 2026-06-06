@@ -44,7 +44,7 @@ export default function Benefits() {
             Built for <span className="text-gradient">Student Success</span>
           </h2>
           <p className="text-[#94A3B8] mt-4 max-w-xl mx-auto">
-            Everything on PW Discount is designed to help students find the best educational opportunities without the noise.
+            Everything on PW Discounts is designed to help students find the best educational opportunities without the noise.
           </p>
         </motion.div>
 
