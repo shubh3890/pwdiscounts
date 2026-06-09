@@ -49,7 +49,7 @@ const posts = [
     featured: false,
   },
   {
-    slug: 'pw-neet-batch-fees',
+    slug: 'pw-neet-batch-price',
     title: 'PW NEET Batch Fees 2026 — Yakeen, Arjuna NEET Price & Discount',
     description: 'Complete fee guide for PW NEET batches including Yakeen and Arjuna NEET. How to get the best price on PW NEET preparation through campus ambassador discounts.',
     date: 'Jun 8, 2026',
