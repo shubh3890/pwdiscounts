@@ -29,6 +29,7 @@ const navLinks = [
   },
   { label: 'FAQ', href: '#faq' },
   { label: 'Contact', href: '#cta' },
+  { label: 'Become Ambassador', href: '/pw-ambassador' },
 ]
 
 export default function Navbar() {

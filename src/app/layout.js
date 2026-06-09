@@ -22,12 +22,12 @@ export const metadata = {
 },
 description:
   'Connect with a verified Physics Wallah Campus Ambassador and get exclusive discounts on PW batches for JEE, NEET, CA Foundation, Vidyapeeth, and Skills courses.',
-  metadataBase: new URL(process.env.SITE_URL || 'https://eduoffers.in'),
+  metadataBase: new URL(process.env.SITE_URL || 'https://pwdiscounts.in'),
   keywords: 'educational offers, student discounts, course discounts, JEE offers, NEET offers, CA Foundation offers',
   robots: { index: true, follow: true },
   openGraph: {
     type: 'website',
-    siteName: 'EduOffers',
+    siteName: 'PW Discounts',
     images: [{ url: '/og-image.png', width: 1200, height: 630 }],
   },
 }

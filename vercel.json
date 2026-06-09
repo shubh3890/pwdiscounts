@@ -4,6 +4,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "env": {
-    "SITE_URL": "https://eduoffers.in"
+    "SITE_URL": "https://pwdiscounts.in"
   }
 }

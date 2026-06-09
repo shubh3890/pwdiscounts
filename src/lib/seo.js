@@ -79,4 +79,4 @@ export function breadcrumbSchema(items) {
   }
 }
 
-export const GOOGLE_FORM_URL = 'https://forms.gle/YOUR_GOOGLE_FORM_ID'
+export const GOOGLE_FORM_URL = 'https://forms.gle/4wK4pszQvZtrjpDn6'

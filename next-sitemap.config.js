@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://eduoffers.in',
+  siteUrl: process.env.SITE_URL || 'https://pwdiscounts.in',
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [
