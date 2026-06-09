@@ -34,10 +34,8 @@ const pwMainFaqs = [
 ]
 
 export const metadata = genMeta({
-  title: 'Physics Wallah Discount 2025 — PW Batch Offers via Verified Campus Ambassador',
-  description:
-    'Get genuine Physics Wallah batch discounts through our verified PW Campus Ambassador. JEE, NEET, Vidyapeeth, CA Foundation and Skills — best PW prices on WhatsApp.',
-  path: '/physics-wallah-discount',
+ title: 'PW Campus Ambassador — Get Up to 50% Off on PW Batches',
+description: '✅ Verified PW Campus Ambassador. Get exclusive discounts on PW JEE, NEET, UPSC, CA, SSC batches. Fill form — ambassador contacts you in 2 hours on WhatsApp.', path: '/physics-wallah-discount',
   keywords: [
     'Physics Wallah discount',
     'PW discount 2025',

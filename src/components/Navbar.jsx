@@ -27,6 +27,7 @@ const navLinks = [
   { label: 'PW Skills & Tech', href: '/pw-skills-discount' },
 ],
   },
+  { label: 'Blog', href: '/blog' },
   { label: 'FAQ', href: '#faq' },
   { label: 'Contact', href: '#cta' },
   { label: 'Become Ambassador', href: '/pw-ambassador' },

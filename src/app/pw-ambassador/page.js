@@ -35,10 +35,8 @@ const ambassadorFaqs = [
 ]
 
 export const metadata = genMeta({
-  title: 'PW Campus Ambassador Program 2026 — Become a Physics Wallah Ambassador',
-  description:
-    'Join the official PW Campus Ambassador program. Become a Physics Wallah brand ambassador, get exclusive batch discounts, earn incentives and represent PW on your campus.',
-  path: '/pw-ambassador',
+title: 'PW Campus Ambassador Program 2025 — Join & Earn Incentives',
+description: '✅ Become a verified PW Campus Ambassador. Get official certification, earn incentives, exclusive batch discounts. Apply free — response in 48 hours on WhatsApp.', path: '/pw-ambassador',
   keywords: [
     'pw ambassador',
     'pw campus ambassador',
